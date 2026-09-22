@@ -1,3 +1,4 @@
 PEDIDO-001 - Cliente: Juan Perez - Estado: Pendiente
 PEDIDO-002 - Cliente: Maria Lopez - Estado: Enviado
 PEDIDO-003 - Cliente: Carlos Vera - Estado: Entregado
+PEDIDO-004 - Cliente: Ana Torres - Estado: Pendiente
