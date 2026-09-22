@@ -1,4 +1,4 @@
 function mostrarMensaje() {
     document.getElementById("mensaje").textContent =
-        "El pedido fue consultado correctamente.";
+        "ERROR: No se pudo consultar el pedido.";
 }
